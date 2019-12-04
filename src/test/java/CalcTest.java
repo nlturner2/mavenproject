@@ -6,7 +6,7 @@ class CalcTest {
     Calc cal = new Calc();
     @Test
     void someTest(){
-        assertEquals(4, cal.Add(2,2));
+        assertEquals(3, cal.Add(2,2));
     }
 
 }
